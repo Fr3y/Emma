@@ -4,9 +4,6 @@ Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
 
-**If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
-
-
 `python3 -m tg_bot`
 
 
